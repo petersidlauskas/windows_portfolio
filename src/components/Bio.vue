@@ -324,7 +324,7 @@
             <div class="heading"><b>Résumé</b></div>
             <a
               style="color: #ff5733"
-              href="/files/don_chia_resume.pdf"
+              href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
               class="paragraph"
               >Check out my résumé here.</a
             >

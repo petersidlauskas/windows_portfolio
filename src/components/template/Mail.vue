@@ -1,4 +1,8 @@
 <template>
+
+
+
+
   <interact
     draggable
     :dragOption="dragOption"

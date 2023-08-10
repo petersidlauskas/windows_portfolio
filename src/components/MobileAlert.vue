@@ -67,7 +67,7 @@
             </button>
             <a
               v-on:click="closeMobileAlert"
-              href="/files/don_chia_resume.pdf"
+              href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
               class="download"
               style="z-index: 10; font-size: 10px; width: 18%"
               target="_blank"

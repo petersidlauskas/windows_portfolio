@@ -1,5 +1,8 @@
 /* eslint-disable */
 <template>
+
+
+
   <interact
     draggable
     :dragOption="dragOption"
@@ -579,6 +582,8 @@ export default {
       };
     },
   },
+  
+  
   methods: {
     sendEmail() {
       setTimeout(() => {
@@ -802,4 +807,7 @@ export default {
     });
   },
 };
+
+
+
 </script>

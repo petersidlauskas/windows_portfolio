@@ -7,7 +7,7 @@
       </div>
     </button>
     <button class="app" v-touch:tap="openResume" v-on:dblclick="openResume">
-      <!-- <a href="/files/don_chia_resume.pdf" target="_blank"> -->
+      <!-- <a href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf.pdf" target="_blank"> -->
       <img class="icon app-github" src="../assets/iPhone-Icons/resume.png" />
       <div class="border">
         <div class="icon-text">Résumé</div>

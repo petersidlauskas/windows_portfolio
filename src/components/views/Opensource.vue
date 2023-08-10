@@ -1,77 +1,117 @@
 <template>
   <div>
-    <h2>Open Source Projects</h2>
-
     <div class="inner-content">
-      <h3 class="heading">
-        <a href="https://github.com/DonChiaQE/vuejs-os-template"
-          >OS Template for Vue.JS</a
-        >
-      </h3>
-      <p class="paragraph">
-        An open source WIP template made and designed for Vue 2.
-      </p>
-      <p class="paragraph">Technologies used:</p>
+      <h1>Bronze56k</h1>
+      <p class="paragraph">Technologies used</p>
       <ul>
-        <li class="paragraph">- Vue 2</li>
-        <li class="paragraph">- Vuex</li>
-        <li class="paragraph">- InteractJS</li>
-        <li class="paragraph">- MomentJS</li>
+        <li class="paragraph">- HTML</li>
+        <li class="paragraph">- CSS</li>
+        <li class="paragraph">- Javascript</li>
+        <li class="paragraph">- Shopify</li>
       </ul>
       <p class="paragraph">
-        Built with encapsulation of each window frame in mind, this enables
-        users to easily reuse the base template of a basic window and fill it up
-        with their own content.
-      </p>
-      <p class="paragraph">
-        The template was built with ease of use in mind as well as themeing.
-        Included in the template are three separate themes, the basic Blueprint
-        theme, a Windows theme and a MacOS theme.
-      </p>
-      <p class="paragraph">
-        Users are able to quickly switch between their preferred theme by
-        changing a few lines of code. Resusability is encouraged through the
-        means of slots and template components.
+        Designed and developed through Shopify using Theme Kit 
       </p>
     </div>
 
     <div class="inner-content">
-      <a href="https://main-preview-site.netlify.app/" target="_blank">
+      <a href="https://bronze56k.com" target="_blank">
         <img
-          src="@/assets/open-source/main.png"
+          src="@/assets/open-source/bronze56k.jpg"
           alt="screenshot of main preview template"
         />
-        <h4 class="subtitle">Main Preview Page</h4>
+        <h4 class="subtitle">bronze56k.com</h4>
       </a>
     </div>
 
+    <h1>Pangea Jeans</h1>
+      <p class="paragraph">Technologies used</p>
+      <ul>
+        <li class="paragraph">- HTML</li>
+        <li class="paragraph">- CSS</li>
+        <li class="paragraph">- Javascript</li>
+        <li class="paragraph">- Shopify</li>
+      </ul>
+      <p class="paragraph">
+        Designed and developed through Shopify using Theme Kit 
+      </p>
+
     <div class="inner-content">
-      <a href="https://windows-template.netlify.app/" target="_blank">
+      <a href="https://pangeajeans.com" target="_blank">
         <img
-          src="@/assets/open-source/win95.png"
+          src="@/assets/open-source/pangea.jpg"
           alt="screenshot of windows 95 template"
         />
-        <h4 class="subtitle">Windows 95 Theme</h4>
+        <h4 class="subtitle">pangeajeans.com</h4>
       </a>
     </div>
 
+    <h1>Billy McFeely</h1>
+      <p class="paragraph">Technologies used</p>
+      <ul>
+        <li class="paragraph">- HTML</li>
+        <li class="paragraph">- CSS</li>
+        <li class="paragraph">- Javascript</li>
+        <li class="paragraph">- Three.js</li>
+        <li class="paragraph">- Vite.js</li>
+      </ul>
+      <p class="paragraph">
+        Designed and developed using Vite.js and applied Three.js for 3D graphics
+      </p>
+
     <div class="inner-content">
-      <a href="https://macos-template.netlify.app/" target="_blank">
+      <a href="https://billymcfeely.com" target="_blank">
         <img
-          src="@/assets/open-source/macos.png"
+          src="@/assets/open-source/mcfeely.jpg"
           alt="screenshot of MacOS template"
         />
-        <h4 class="subtitle">MacOS Theme</h4>
+        <h4 class="subtitle">billymcfeely.com</h4>
       </a>
     </div>
 
+    <h1>Hardbody</h1>
+      <p class="paragraph">Technologies used</p>
+      <ul>
+        <li class="paragraph">- HTML</li>
+        <li class="paragraph">- CSS</li>
+        <li class="paragraph">- Javascript</li>
+        <li class="paragraph">- Vue.js</li>
+         <li class="paragraph">- Shopify</li>
+          <li class="paragraph">- Wordpress</li>
+      </ul>
+      <p class="paragraph">
+        Designed and developed through Shopify using Theme Kit. Designed the front end of the blog with custom PHP on Wordpress
+      </p>
+
     <div class="inner-content">
-      <a href="https://blueprint-template.netlify.app/" target="_blank">
+      <a href="https://hardbody.myshopify.com" target="_blank">
         <img
-          src="@/assets/open-source/blueprint.png"
+          src="@/assets/open-source/hardbody.jpg"
           alt="screenshot of blueprint template"
         />
-        <h4 class="subtitle">Blueprint Theme</h4>
+        <h4 class="subtitle">hardbodynyc.com</h4>
+      </a>
+    </div>
+
+    <h1>Petschauer Insurance</h1>
+      <p class="paragraph">Technologies used</p>
+      <ul>
+        <li class="paragraph">- HTML</li>
+        <li class="paragraph">- CSS</li>
+        <li class="paragraph">- Javascript</li>
+        <li class="paragraph">- Wordpress</li>
+      </ul>
+      <p class="paragraph">
+        Designed and devloped fully customized Wordpress site
+      </p>
+
+    <div class="inner-content">
+      <a href="https://jpins.com" target="_blank">
+        <img
+          src="@/assets/open-source/jpins.jpg"
+          alt="screenshot of blueprint template"
+        />
+        <h4 class="subtitle">jpins.com</h4>
       </a>
     </div>
   </div>

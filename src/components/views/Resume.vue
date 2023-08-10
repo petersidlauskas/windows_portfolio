@@ -2,7 +2,7 @@
   <div style="display: flex; height: 100%; flex-direction: column">
     <nav class="download-bar">
       <a
-        href="/files/don_chia_resume.pdf"
+        href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
         class="download"
         style="z-index: 10"
         download
@@ -15,7 +15,7 @@
       </a>
 
       <a
-        href="/files/don_chia_resume.pdf"
+        href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
         class="download"
         style="z-index: 10"
         target="_blank"
@@ -34,7 +34,7 @@
       <iframe
         @click.native="openWindow('ResumeWindow')"
         class="frame"
-        src="https://drive.google.com/file/d/1JbqfFRdU42pfgmA8ItUWwHJA3W-EbiW6/preview"
+        src="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
       ></iframe>
       <span
         v-if="$store.getters.getActiveWindow != 'ResumeWindow'"

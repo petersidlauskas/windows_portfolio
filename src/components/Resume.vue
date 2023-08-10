@@ -81,7 +81,7 @@
       <div class="content">
         <div class="download-bar">
           <a
-            href="/files/don_chia_resume.pdf"
+            href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
             class="download"
             style="z-index: 10"
             download
@@ -94,7 +94,7 @@
           </a>
 
           <a
-            href="/files/don_chia_resume.pdf"
+            href="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
             class="download"
             style="z-index: 10"
             target="_blank"
@@ -106,13 +106,13 @@
           </a>
         </div>
         <div class="frame" @click.native="focusResume" style="z-index: 99">
-          <!-- <object data="/files/don_chia_resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf">
-                        <embed src="/files/don_chia_resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" />
+          <!-- <object data="/files/Peter Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf">
+                        <embed src="/files/Peter Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" />
                     </object> -->
           <iframe
             @click.native="focusResume"
             class="frame"
-            src="https://drive.google.com/file/d/1JbqfFRdU42pfgmA8ItUWwHJA3W-EbiW6/preview"
+            src="/files/Peter Sidlauskas_Full_Stack_Resume.pdf"
           ></iframe>
           <div
             v-if="$store.getters.activeWindow != 'Resume'"
