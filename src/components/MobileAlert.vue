@@ -67,7 +67,7 @@
             </button>
             <a
               v-on:click="closeMobileAlert"
-              href="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
+              href="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
               class="download"
               style="z-index: 10; font-size: 10px; width: 18%"
               target="_blank"

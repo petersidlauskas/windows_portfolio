@@ -81,7 +81,7 @@
       <div class="content">
         <div class="download-bar">
           <a
-            href="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
+            href="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
             class="download"
             style="z-index: 10"
             download
@@ -94,7 +94,7 @@
           </a>
 
           <a
-            href="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
+            href="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
             class="download"
             style="z-index: 10"
             target="_blank"
@@ -106,13 +106,13 @@
           </a>
         </div>
         <div class="frame" @click.native="focusResume" style="z-index: 99">
-          <!-- <object data="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf">
-                        <embed src="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" />
+          <!-- <object data="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf">
+                        <embed src="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" />
                     </object> -->
           <iframe
             @click.native="focusResume"
             class="frame"
-            src="/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
+            src="/windows_portfolio/files/Peter_Sidlauskas_Full_Stack_Resume.pdf"
           ></iframe>
           <div
             v-if="$store.getters.activeWindow != 'Resume'"
