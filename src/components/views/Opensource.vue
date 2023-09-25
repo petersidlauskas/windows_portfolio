@@ -84,7 +84,7 @@
       </p>
 
     <div class="inner-content">
-      <a href="https://hardbody.myshopify.com" target="_blank">
+      <a href="https://hardbodynyc.myshopify.com" target="_blank">
         <img
           src="@/assets/open-source/hardbody.jpg"
           alt="screenshot of blueprint template"
